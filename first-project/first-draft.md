@@ -13,3 +13,5 @@ Another fact that surprises me is that the term “pinch” is so casually accep
 Some would say that a good chef must always taste their meals to ensure the salt levels are perfect. If not, add more. Simple, right? But for a home cook that’s trying variety of recipes of familiar or unfamiliar food, the vagueness of this word just creates confusion and uncertainty when cooking a new recipe.
 
 In conclusion, while the word continues to spread confusion amongst the amateur home cooks, my stand for this term will always stay still. I can only imagine so many meals ruined by “just one pinch of salt.” So until there’s a universally agreed-upon measure for this word, it will always be my Achilles heel in my cooking expertise.
+
+I then put the text through the Hemingway editor and [this](revision.md) is what it said.
