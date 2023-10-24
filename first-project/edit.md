@@ -2,6 +2,8 @@
 
 This is the edited version. I looked through the [revised version](revision.md) and simplified it.
 
+![Alt Text](pinch.gif)
+
 
 ## A pinch - Distasteful culinary term
 
