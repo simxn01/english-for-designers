@@ -2,6 +2,6 @@
 
 ## An essay about pinch
 
-- [First Draft](first-draft.md)
-- [Revision](revision.md)
-- [Edit](edit.md)
+- [First Draft](/first-project/first-draft.md)
+- [Revision](/first-project/revision.md)
+- [Edit](/first-project/edit.md)
