@@ -1,6 +1,8 @@
 # English for Designers
 
-## An essay about pinch
+This is an index for all the assignments.
+
+## An essay about the word pinch
 
 - [First Draft](/first-project/first-draft.md)
 - [Revision](/first-project/revision.md)
