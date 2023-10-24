@@ -1,6 +1,6 @@
 # First Draft
 
-## A pinch - Distasteful culinary term
+## A Pinch - Distasteful culinary term
 
 As a student, I’ve come to realise very early that if I’m going to live alone I should be able to to cook myself variety of meals depending on my mood and taste. So I started to learn various recipes, my favourite meals, healthy meals, junk food even. But across all the recipes and meals I prepared I was always irritated about one word. Pinch.
 
