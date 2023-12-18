@@ -22,4 +22,4 @@ Then you think about how you capture that moment. How you compose the picture. W
 
 ![Woman standing in a botanical garden looking out the window.](/first-impression/port2.png)
 
-[⇤Back](README.md)
+[⇤Back](/README.md)
