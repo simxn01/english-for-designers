@@ -1,9 +1,13 @@
-# English for Designers
+# Šimon Fibír
 
-This is an index for all the assignments.
+Hello! I'm a photographer and your camera guy in need. If you'd like to get to know me, [here](/abt-me/about.md) is something that might interest you.
 
-## An essay about the word pinch
+![Black and white portrait of a young adult male, preferably the author of theese webpages.](/me-smolsize.png)
 
-- [First Draft](/first-project/first-draft.md)
-- [Revision](/first-project/revision.md)
-- [Edit](/first-project/edit.md)
+## Work
+
+- [Professional and private projects](/first-impression/prof-priv.md)
+
+## Writing
+
+- [Pinch](/first-project/edit.md)
