@@ -1,5 +1,4 @@
 # My professional and private projects
-[⇤Back](https://simxn01.github.io/english-for-designers/)
 ## Projects
 - [Ultravagant](https://www.instagram.com/ultravagant)
 
