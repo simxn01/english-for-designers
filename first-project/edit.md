@@ -1,5 +1,7 @@
 # Edit
 
+[⇤Back](https://simxn01.github.io/english-for-designers/)
+
 This is the edited version. I looked through the [revised version](revision.md) and simplified it.
 
 ![Alt Text](pinch.gif)
@@ -18,3 +20,5 @@ What surprises me is the culinary world's acceptance of "pinch." Both expert che
 Some argue that chefs should adjust salt by taste. That might work for professionals, but for someone like me, trying new recipes, "a pinch" is confusing.
 
 In conclusion, the term "pinch" adds uncertainty for many home cooks like me. I can only imagine so many meals ruined by “just one pinch of salt.” So until there’s a universally agreed-upon measure for this word, it will always be my Achilles heel in my cooking expertise.
+
+[⇤Back](https://simxn01.github.io/english-for-designers/)
