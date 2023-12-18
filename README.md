@@ -4,10 +4,5 @@ Hello! I'm a photographer and your camera guy in need. If you'd like to get to k
 
 ![Black and white portrait of a young adult male, preferably the author of theese webpages.](/me-smolsize1.png)
 
-## Work
-
 - [Professional and private projects](/first-impression/prof-priv.md)
-
-## Writing
-
-- [Pinch](/first-project/edit.md)
+- [Pinch (Essay)](/first-project/edit.md)
