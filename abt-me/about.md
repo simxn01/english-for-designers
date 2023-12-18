@@ -1,7 +1,5 @@
 # Šimon Fibír
 
-[⇤Back](https://simxn01.github.io/english-for-designers/)
-
 ![Man photographing himself through the warped mirror in convenience store.](me.png)
 
 ### Who am I?
@@ -22,4 +20,4 @@ Then you think about how you capture that moment. How you compose the picture. W
 
 ![Woman standing in a botanical garden looking out the window.](/english-for-designers/first-impression/port2.png)
 
-[⇤Back](/english-for-designers/README.md)
+[⇤Back](https://simxn01.github.io/english-for-designers/)
