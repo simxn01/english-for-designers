@@ -1,5 +1,5 @@
 # My professional and private projects
-[⇤Back](/english-for-designers/README.md)
+[⇤Back](/README.md)
 ## Projects
 - [Ultravagant](https://www.instagram.com/ultravagant)
 
@@ -32,4 +32,4 @@ Working in this professional environment taught me lot about television producti
   ![Black and white photograph of a polished stone column with sky reflections and sky in the background.](geo4.png)
   ![Black and white photograph with floating cylindrical light with wires attached to it.](geo5.png)
 
-[⇤Back](/english-for-designers/README.md)
+[⇤Back](/README.md)
