@@ -1,4 +1,7 @@
 # Šimon Fibír
+
+[⇤Back](https://simxn01.github.io/english-for-designers/)
+
 ![Man photographing himself through the warped mirror in convenience store.](me.png)
 
 ### Who am I?
@@ -18,3 +21,5 @@ To me photography is not just the ability to make aestethically pleasing picture
 Then you think about how you capture that moment. How you compose the picture. Which shutter, aperture and ISO? Color or black and white? Should I pose my subject somewhere else or this is fine? Once I make this decision I take the picture. I don't really wave around my camera aimlessly with my index finger glued to my shutter. I don't sort through thousands and thousands of photos to find just one thats good. For me it has to be the right moment, the right composition, the right setting with the right light and boom. Magic.
 
 ![Woman standing in a botanical garden looking out the window.](/first-impression/port2.png)
+
+[⇤Back](https://simxn01.github.io/english-for-designers/)
