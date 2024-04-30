@@ -8,4 +8,4 @@
 
 - [Professional experience and private projects](/first-impression/prof-priv.md)
 - [Pinch (Essay)](/first-project/edit.md)
-- [Postmodern Photography (Essay)](/postmodern-pho/postmodern-photography.md)
+- [Postmodern Photography (Storytelling)](/postmodern-pho/postmodern-photography.md)
