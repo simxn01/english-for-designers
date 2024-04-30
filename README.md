@@ -9,3 +9,5 @@
 - [Professional experience and private projects](/first-impression/prof-priv.md)
 - [Pinch (Essay)](/first-project/edit.md)
 - [Postmodern Photography (Storytelling)](/postmodern-pho/postmodern-photography.md)
+- [Voice, Tone and Style](/voice-tone/voicetone.md)
+- [Thesis](/thesis/thesis.md)
