@@ -19,3 +19,5 @@ When I talk about a story I'd like to be whole. Mention all relevant circumstanc
 The style of my writing varies. Highly depends on the formality of the text. I still struggle with formal texts, because of my not so rich professional background, but I'm learning my ways as I go. In informal texts I tend to write long sentences when I express my emotions. It's probably because emotions are really intriguing. Emotions have so many forms and not one emotion is the same for everyone, so when I write, I'd like to specify it more. But then when I'm not talking about something with an emotional undertone, my sentences get shorter.
 
 I also feel that sometimes I run out of words to use, so I try to write my texts with rich vocabular arsenal. Not only It makes me look smarter but makes the text a little more nicer to read. I hate to repeat the same words again and again, so I've learned how to change things up a bit.
+
+Questions play another big part in my writing. I'd like to ask the audience/reader some questions or rhetorical questions about the topic, to keep them engaged in the text and to give them space to wonder. 
