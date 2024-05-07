@@ -20,4 +20,8 @@ The style of my writing varies. Highly depends on the formality of the text. I s
 
 I also feel that sometimes I run out of words to use, so I try to write my texts with rich vocabular arsenal. Not only It makes me look smarter but makes the text a little more nicer to read. I hate to repeat the same words again and again, so I've learned how to change things up a bit.
 
-Questions play another big part in my writing. I'd like to ask the audience/reader some questions or rhetorical questions about the topic, to keep them engaged in the text and to give them space to wonder. 
+Questions play another big part in my writing. I'd like to ask the audience/reader some questions or rhetorical questions about the topic, to keep them engaged in the text and to give them space to wonder. And also to test them if they are still paying attention.
+
+
+
+[⇤Back](https://simxn01.github.io/english-for-designers/)
